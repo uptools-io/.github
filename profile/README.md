@@ -50,11 +50,6 @@ On any stack, anywhere in the world. Webshops, CRMs, APIs and internal systems, 
 
 We don't want your system to live in one person's head, ours included. We write documentation, set up CI/CD, and if needed, train your team.
 
-## Open source
-
-- **[upblock](https://github.com/uptools-io/upblock)**: monitor, log and block unwanted HTTP API calls in WordPress admin to improve performance.
-- **[elallas-for-woo](https://github.com/uptools-io/elallas-for-woo)**: the EU online withdrawal function for WooCommerce, with auditable case handling.
-
 ## Get in touch
 
 How can we help? Write to **[support@uptools.io](mailto:support@uptools.io)**. We reply within one business day.
