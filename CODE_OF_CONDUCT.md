@@ -1,59 +1,41 @@
 # Code of Conduct
 
-## Our Pledge
+## Our pledge
 
-At upTools, we are committed to creating a welcoming and inclusive environment for everyone who wants to participate in our community. We value diverse perspectives and believe that the best solutions come from collaboration between people with different experiences and backgrounds.
+We want everyone who takes part in upTools projects to feel welcome. We are committed to a respectful, harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-## Expected Behavior
+## Expected behaviour
 
-To help create a positive environment, we expect all community members to:
+- Be respectful and considerate.
+- Give and gracefully accept constructive feedback.
+- Focus on what is best for the project and its users.
+- Show empathy towards others.
 
-- Be respectful and considerate in communications
-- Welcome and support people of all backgrounds and identities
-- Give and gracefully accept constructive feedback
-- Show empathy towards other community members
-- Focus on what is best for the overall community
+## Unacceptable behaviour
 
-## Unacceptable Behavior
-
-The following behaviors are considered unacceptable:
-
-- Harassment, discrimination, or intimidation in any form
-- Offensive comments related to gender, gender identity, age, sexual orientation, disability, physical appearance, race, religion, or other protected categories
-- Deliberate intimidation, stalking, or following
-- Inappropriate use of sexual language or imagery
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
-
-## Reporting Guidelines
-
-If you experience or witness unacceptable behavior, please report it by contacting us at conduct@uptools.io. All reports will be handled with discretion and confidentiality.
-
-When reporting an incident, please include:
-- Your contact information
-- Names of any individuals involved
-- Description of the incident
-- Any relevant evidence (screenshots, links, etc.)
-
-## Enforcement
-
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
-
-1. **Correction**: A private, written warning, providing clarity around the nature of the violation.
-2. **Warning**: A warning with consequences for continued behavior.
-3. **Temporary Ban**: A temporary ban from any sort of interaction or public communication.
-4. **Permanent Ban**: A permanent ban from any sort of public interaction within the community.
+- Harassment, discrimination or intimidation in any form.
+- Insulting or derogatory comments, and personal or political attacks.
+- Sexualised language or imagery.
+- Publishing others' private information without their explicit permission.
+- Any other conduct that would be inappropriate in a professional setting.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, including:
-- GitHub repositories and discussions
-- Official communication channels
-- Community events and meetups
-- Any other forums created by the project team
+This Code of Conduct applies in all upTools project spaces, including repositories, issues, pull requests and discussions, and when someone represents the project in public.
+
+## Reporting
+
+If you experience or witness unacceptable behaviour, write to **[support@uptools.io](mailto:support@uptools.io)** with the subject line starting with `[CONDUCT]`. Please include what happened, where, who was involved, and any links or screenshots. Reports are handled confidentially.
+
+## Enforcement
+
+Maintainers may take any action they consider appropriate, including:
+
+1. **Correction:** a private, written warning.
+2. **Warning:** a warning with consequences for continued behaviour.
+3. **Temporary ban** from interaction in project spaces.
+4. **Permanent ban** from project spaces.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0. 
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.

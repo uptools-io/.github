@@ -1,52 +1,29 @@
 # Support
 
-Welcome to upTools support! We're here to help you get the most out of our tools and resolve any issues you might encounter.
+## Open-source tools
 
-## Getting Help
+For our open-source projects (such as [upblock](https://github.com/uptools-io/upblock) and [elallas-for-woo](https://github.com/uptools-io/elallas-for-woo)), use the repository's GitHub Issues to:
 
-The primary way to get help is through GitHub Issues. This is where you can:
-- Report bugs
-- Request features
-- Ask questions about the project
-- Share feedback
+- report a bug,
+- request a feature,
+- ask a question about the project.
 
-For general inquiries, you can also reach us at contact@uptools.io.
+Before opening an issue, please search the existing ones and check that you are on the latest release.
 
-## Issue Reporting Guidelines
+### What to include
 
-When creating an issue, please include:
+- **Where:** the repository, the version, and your environment (for WordPress plugins: WordPress, WooCommerce and PHP versions).
+- **What happened:** what you did, what you expected, and what happened instead, with steps to reproduce.
+- **Context:** error messages, logs and screenshots, if you have them. Leave out passwords, API keys and personal data.
 
-1. **Version Information**:
-   - Which repository/tool you're using
-   - Your operating system and version
-   - Any relevant environment details
+## Our services
 
-2. **Problem Description**:
-   - What happened?
-   - What did you expect to happen?
-   - Steps to reproduce the issue
+If you are a client, or you need help with a system we run or could run for you, don't use GitHub Issues. Write to **[support@uptools.io](mailto:support@uptools.io)** or use the form at [uptools.io/contact](https://uptools.io/contact/). We reply within one business day.
 
-3. **Additional Context**:
-   - Screenshots (if applicable)
-   - Error messages
-   - Log outputs
+## Security issues
 
-## Before Creating an Issue
+Please don't report security vulnerabilities in public issues. See our [Security Policy](SECURITY.md).
 
-1. Search existing issues to avoid duplicates
-2. Check if the issue has already been resolved
-3. Make sure you're using the latest version
-4. Review the documentation in the repository
+## Code of Conduct
 
-## Feature Requests
-
-We welcome feature requests! When suggesting new features:
-
-1. Check if the feature has already been requested
-2. Explain your use case clearly
-3. Consider and describe potential alternatives
-4. Be open to discussion and feedback
-
-## Community Guidelines
-
-Remember to follow our [Code of Conduct](CODE_OF_CONDUCT.md) when interacting in issues. We're committed to maintaining a welcoming and helpful environment for all users. 
+Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) in issues and discussions.
